@@ -1,1 +1,1 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+This is the source code for Emre Yavaş's public academic and non academic website. It was adapted from Jon Barron's excellent personal website(https://jonbarron.info/). I would like to thank him for generously sharing his website's source code with the community and for helping others build their own sites.
